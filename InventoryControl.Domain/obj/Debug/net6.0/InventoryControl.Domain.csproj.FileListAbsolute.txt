@@ -1,0 +1,14 @@
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/bin/Debug/net6.0/InventoryControl.Domain.deps.json
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/bin/Debug/net6.0/InventoryControl.Domain.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/bin/Debug/net6.0/ref/InventoryControl.Domain.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/bin/Debug/net6.0/InventoryControl.Domain.pdb
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/obj/Debug/net6.0/InventoryControl.Domain.csproj.AssemblyReference.cache
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/obj/Debug/net6.0/InventoryControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/obj/Debug/net6.0/InventoryControl.Domain.AssemblyInfoInputs.cache
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/obj/Debug/net6.0/InventoryControl.Domain.AssemblyInfo.cs
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/obj/Debug/net6.0/InventoryControl.Domain.csproj.CoreCompileInputs.cache
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/obj/Debug/net6.0/InventoryControl.Domain.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/obj/Debug/net6.0/ref/InventoryControl.Domain.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/obj/Debug/net6.0/InventoryControl.Domain.pdb
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/bin/Debug/net6.0/InventoryControl.Domain.runtimeconfig.json
+/home/plug/Documents/InventoryControl/InventoryControl.Domain/obj/Debug/net6.0/InventoryControl.Domain.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/InventoryControl.Infrastructure.csproj.AssemblyReference.cache
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/InventoryControl.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/InventoryControl.Infrastructure.AssemblyInfoInputs.cache
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/InventoryControl.Infrastructure.AssemblyInfo.cs
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/InventoryControl.Infrastructure.csproj.CoreCompileInputs.cache
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/bin/Debug/net6.0/InventoryControl.Infrastructure.deps.json
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/bin/Debug/net6.0/InventoryControl.Infrastructure.runtimeconfig.json
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/bin/Debug/net6.0/InventoryControl.Infrastructure.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/bin/Debug/net6.0/ref/InventoryControl.Infrastructure.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/bin/Debug/net6.0/InventoryControl.Infrastructure.pdb
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/bin/Debug/net6.0/InventoryControl.Domain.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/bin/Debug/net6.0/InventoryControl.Domain.pdb
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/InventoryControl.Infrastructure.csproj.CopyComplete
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/InventoryControl.Infrastructure.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/ref/InventoryControl.Infrastructure.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/InventoryControl.Infrastructure.pdb
+/home/plug/Documents/InventoryControl/InventoryControl.Infrastructure/obj/Debug/net6.0/InventoryControl.Infrastructure.genruntimeconfig.cache
