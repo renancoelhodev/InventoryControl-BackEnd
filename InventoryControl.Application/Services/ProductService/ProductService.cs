@@ -9,10 +9,12 @@ namespace InventoryControl.Application.Services
     {
         
         private readonly IProductRepository _productRepository;
-
+        
         public ProductService(IProductRepository productRepository)
         {
-            _productRepository = productRepository;       
+        
+            _productRepository = productRepository;
+            
         }
         public async Task CreateProduct(ProductRequestDto request){
             
@@ -21,11 +23,7 @@ namespace InventoryControl.Application.Services
                 {
                     cfg.CreateMap<ProductRequestDto, Product>();
                 });
-
-                var mapper = configuration.CreateMapper();
-
-
-
+                var mapper = configuration.CreateMapper();  
                 var mapped = mapper.Map<Product>(request);
 
                 
@@ -38,10 +36,7 @@ namespace InventoryControl.Application.Services
 
         public List<ProductResponseDto> GetProducts()
         {
-            var retorno = _productRepository.GetAllAsync();
-
-
-            return retorno;
+            return _productRepository.GetAllAsync();
         }
 
         public async Task DeleteProduct(int id)
@@ -52,15 +47,14 @@ namespace InventoryControl.Application.Services
 
         public async Task UpdateProduct(int id, ProductRequestDto request)
         {
+
             var configuration = new MapperConfiguration(cfg =>
-            {
-                cfg.CreateMap<ProductRequestDto, Domain.Models.Product>();
-            });
-
-            var mapper = configuration.CreateMapper();
-
-
-
+                {
+                    cfg.CreateMap<ProductRequestDto, Product>();
+                });
+            
+            var mapper = configuration.CreateMapper();  
+            
             var mapped = mapper.Map<Product>(request);
 
             await _productRepository.Update(id, mapped);

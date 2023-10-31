@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Z3Zp3hQJZIBfQlRMujjc4gmamJoMmuI8UTFmSmNBnl664kP2S56tnGcGtBkNmejX6ZNt7XqPVzTWxsNDZxNWeA==",
+  "dgSpecHash": "rfc7WWBz292/6ynCUrOFQFg6pdENGYFHQcSgPJ7C3OZt8sQjGo++cqF6apCGib+sprbep5KYUxRsi/zJI78lAw==",
   "success": true,
   "projectFilePath": "/home/plug/Documents/InventoryControl/InventoryControl.Application/InventoryControl.Application.csproj",
   "expectedPackageFiles": [
     "/home/plug/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/plug/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/home/plug/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/plug/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/plug/.nuget/packages/microsoft.entityframeworkcore/7.0.13/microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

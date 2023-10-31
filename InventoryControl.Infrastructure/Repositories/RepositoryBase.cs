@@ -14,7 +14,7 @@ namespace InventoryControl.Application.Repositories
 
         public Task AddAsync<T>(T entity) where T : class
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException();    
         }
     }
 }

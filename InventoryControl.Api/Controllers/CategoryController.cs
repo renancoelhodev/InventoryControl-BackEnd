@@ -12,12 +12,10 @@ namespace GerenciadorProdutos.API.Controllers
     [Route("[controller]")] 
     public class CategoryController: ControllerBase
     {
-        private readonly DatabaseContext _context;
         private readonly ICategoryService _categoryService;
         
-        public CategoryController(DatabaseContext context, ICategoryService categoryService)
+        public CategoryController(ICategoryService categoryService)
         {
-            _context = context;
             _categoryService = categoryService;
         }
 

@@ -54,3 +54,4 @@
 /home/plug/Documents/InventoryControl/InventoryControl.Api/bin/Debug/net6.0/InventoryControl.Infrastructure.dll
 /home/plug/Documents/InventoryControl/InventoryControl.Api/bin/Debug/net6.0/InventoryControl.Infrastructure.pdb
 /home/plug/Documents/InventoryControl/InventoryControl.Api/bin/Debug/net6.0/AutoMapper.dll
+/home/plug/Documents/InventoryControl/InventoryControl.Api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

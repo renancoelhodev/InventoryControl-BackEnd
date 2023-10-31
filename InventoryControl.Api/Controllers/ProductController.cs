@@ -11,12 +11,10 @@ namespace GerenciadorProdutos.API.Controllers
     [Route("[controller]")] 
     public class ProductsController: ControllerBase
     {
-        private readonly DatabaseContext _context;
         private readonly IProductService _productService;
         
-        public ProductsController(DatabaseContext context, IProductService productService)
+        public ProductsController(IProductService productService)
         {
-            _context = context;
             _productService = productService;
         }
 

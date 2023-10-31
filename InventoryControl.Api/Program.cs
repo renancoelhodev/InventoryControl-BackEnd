@@ -24,11 +24,12 @@ builder.Services.AddDbContext<DatabaseContext>(
             ServerVersion.Parse("MySql 8.0"),
             x => x.MigrationsAssembly("InventoryControl.Domain")));
 
-builder.Services.AddScoped<IRepositoryBase, RepositoryBase>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
